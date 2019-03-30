@@ -6,4 +6,5 @@ fsdfdsfsdfsdf
 fhskjfskjhdfkjsdhfjksdhfjksdhkfhsdk
 deeeeevvvv
 deeeevvvvvv
-creating a new branch is quick & smiple
+creating a new branch is quick and smiple
+
